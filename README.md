@@ -1,2 +1,2 @@
 # fardin-dev
-Flutter &amp; Firebase Developer | Electrical Engineering Diploma | Building cross-platform mobile apps with Flutter, Dart, Firebase,Git & GitHub.
+Flutter and Firebase Developer | Electrical Engineering Diploma | Building Cross-Platform Mobile Apps With Flutter, Dart, Firebase, Git & GitHub.
